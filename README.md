@@ -28,9 +28,17 @@
 > `THEN I am shown a 300x200 pixel image that matches the criteria I entered`
 
 ## Mock-Up
-The following image shows a mock-up of the generated SVG given the following input entered by the user: SVG for the text, white for the text color, circle from the list of shapes, and green for the shape color. Note that this is just an image of the output SVG and not the SVG file itself:
+The following image shows a mock-up of the generated SVG given the following input entered by the user:  
+`SVG` for the text, `White` for the text color  
+`Circle` from a list of shapes, `Green` for the shape color.  
+  
+Note that this is just an image of the output SVG and not the SVG file itself:
 
-![Image showing a green circle with white text that reads "SVG.".](./Images/10-oop-homework-demo.png)
+![10-oop-homework-demo](https://github.com/nava003/ADN_Logo_Maker/assets/32070635/4113e0e0-6166-450e-ad81-f65b37dc4b03)
 
 ## Student Result
-  
+![OOP_C10_IMG0](https://github.com/nava003/ADN_Logo_Maker/assets/32070635/cbe25a54-95e7-4cbc-92c7-ec275a0fa232)
+
+Attached is a video player demonstrating the usage of the application:
+
+https://github.com/nava003/ADN_Logo_Maker/assets/32070635/3eee4056-5123-4e9e-b6ba-f55983dc92af
