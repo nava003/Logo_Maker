@@ -1,4 +1,4 @@
-# ADN_Logo_Maker
+# Logo_Maker
 
 ## User Story
 > `AS A freelance web developer`  
